@@ -1,1 +1,49 @@
+Where does your favourite LLM rank currently?  No 01 (claude flash)
+Try out at least two models that you haven't tried before (you will have to do a seperate google search to find these products)
+Run two prompts of your choice
+Submit the model, the prompt and the responses you have got
 
+01
+model - perplexity 
+prompt - "Explain the difference between Artificial Intelligence, Machine Learning, and Deep Learning using one real-world example for each. Then explain how they are related to each other."
+response - "- Artificial intelligence (AI): a broad goal to create systems that can perform tasks that normally require human intelligence. Example: a customer-service chatbot that understands questions and provides helpful replies.
+
+- Machine learning (ML): a way to achieve AI by letting systems learn from data rather than being explicitly programmed. Example: an email spam filter that learns to distinguish spam from legitimate emails from labeled examples.
+
+- Deep learning (DL): a subset of ML that uses large neural networks with many layers to learn complex patterns from big datasets. Example: a self-driving car’s perception system that recognizes pedestrians and traffic signs from camera images.
+
+How they relate:
+- DL is a subset of ML, which is a subset of AI.
+- All DL and ML systems are forms of AI, but not all AI involves ML or DL.
+- DL typically requires more data and computation than traditional ML and often reduces the need for manual feature engineering."
+
+02 
+model - oreateAi
+prompt - "explain why is oreate ai is capable of and what are the features capable of "
+response - "OreateAI is a general-purpose AI agent — you describe what you want in plain language, and I plan the steps, do the work, and hand you finished files rather than instructions.
+
+What I can do
+
+Documents and writing — research reports with cited sources, Word documents, print-grade PDFs (invoices, resumes, exams, academic papers), articles, blog posts, guides, and sell-side style financial research. I can also make text sound less machine-written when that matters.
+
+Slides — full presentation decks from a topic or brief, in your choice of language, length, and visual style (business, education, technology, marketing, research, and more). Existing decks can be edited afterward.
+
+Spreadsheets and data — open, clean, fix, or build Excel/CSV files, compute formulas, add formatting and embedded charts. For visuals I can produce either static chart images or interactive dashboards you can share as a standalone page.
+
+Images and video — generate images from a description, edit existing ones, and create short videos from text or a reference image.
+
+Audio — turn text into narrated speech, build a shareable single-page podcast with player and transcript, or go the other direction: transcribe a recording and turn it into structured meeting minutes.
+
+Learning material — mind maps, flashcards, quizzes, and infographics as interactive pages.
+
+Career — polished overseas-style resumes tailored to a target role or job description.
+
+Technical work — writing, reviewing, testing, and debugging code, running commands, and automating tasks in a Linux environment.
+
+Research and web — searching the web for current information and reading full pages when needed.
+
+How it works in practice
+
+Upload a file or just describe the goal. I read whatever you give me (PDF, Word, slides, spreadsheets, images, audio, video), figure out the right approach, do the work, and deliver the finished file to you directly. You never have to run commands or manage the intermediate steps.
+
+Tell me what you're trying to make and I'll start on it."
